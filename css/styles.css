@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Marck+Script&display=swap');
+
+body {
+    font-family: 'Marck Script', cursive;
+}
+
+.container {
+    background-color: black;
+    color: white;
+}
